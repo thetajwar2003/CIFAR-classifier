@@ -55,7 +55,7 @@ The model was trained on the CIFAR-10 dataset to achieve high classification acc
 
    ```bash
    git clone https://github.com/thetajwar2003/CIFAR-classifier.git
-   cd cifar10-classifier-api
+   cd CIFAR-classifier
    ```
 
 2. **Install Dependencies**:
@@ -109,7 +109,7 @@ The model was trained on the CIFAR-10 dataset to achieve high classification acc
 ### Project Structure
 
 ```
-cifar10-classifier-api/
+CIFAR-classifier/
 │
 ├── cifar-10-batches-py/   # Data files and batches
 ├── app.py                 # Flask application file
